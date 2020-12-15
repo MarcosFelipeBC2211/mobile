@@ -1,5 +1,5 @@
 import React from 'react';
-import Rotas from './index';
+import Rotas from './routes';
 
 export default function App() {
   return (
